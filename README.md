@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BandedYBN
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java
-- 💞️ I aint looking to collaborate on nun
+- 👀 I’m interested in godot
+- 🌱 I’m currently learning godot.
+- 💞️ I aint looking to collaborate on nothing
 - 📫 How to reach me BandedYBN@outlook.com
 
 <!---
